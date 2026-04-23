@@ -1,6 +1,5 @@
 streamlit
-requests
-Pillow
+ultralytics
+opencv-python-headless
 numpy
-azure-ai-ml
-azure-identity
+pillow
